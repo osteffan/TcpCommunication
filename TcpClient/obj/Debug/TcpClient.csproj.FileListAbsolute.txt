@@ -1,0 +1,10 @@
+C:\LWD\DotNetProjects\TcpCommunication\TcpClient\bin\Debug\TcpClient.exe.config
+C:\LWD\DotNetProjects\TcpCommunication\TcpClient\bin\Debug\TcpClient.exe
+C:\LWD\DotNetProjects\TcpCommunication\TcpClient\bin\Debug\TcpClient.pdb
+C:\LWD\DotNetProjects\TcpCommunication\TcpClient\obj\Debug\TcpClient.csprojResolveAssemblyReference.cache
+C:\LWD\DotNetProjects\TcpCommunication\TcpClient\obj\Debug\TcpClient.Form1.resources
+C:\LWD\DotNetProjects\TcpCommunication\TcpClient\obj\Debug\TcpClient.Properties.Resources.resources
+C:\LWD\DotNetProjects\TcpCommunication\TcpClient\obj\Debug\TcpClient.csproj.GenerateResource.cache
+C:\LWD\DotNetProjects\TcpCommunication\TcpClient\obj\Debug\TcpClient.csproj.CoreCompileInputs.cache
+C:\LWD\DotNetProjects\TcpCommunication\TcpClient\obj\Debug\TcpClient.exe
+C:\LWD\DotNetProjects\TcpCommunication\TcpClient\obj\Debug\TcpClient.pdb

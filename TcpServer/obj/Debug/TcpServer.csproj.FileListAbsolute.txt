@@ -1,0 +1,9 @@
+C:\LWD\DotNetProjects\TcpCommunication\TcpServer\bin\Debug\TcpServer.exe.config
+C:\LWD\DotNetProjects\TcpCommunication\TcpServer\bin\Debug\TcpServer.exe
+C:\LWD\DotNetProjects\TcpCommunication\TcpServer\bin\Debug\TcpServer.pdb
+C:\LWD\DotNetProjects\TcpCommunication\TcpServer\obj\Debug\TcpServer.Form1.resources
+C:\LWD\DotNetProjects\TcpCommunication\TcpServer\obj\Debug\TcpServer.Properties.Resources.resources
+C:\LWD\DotNetProjects\TcpCommunication\TcpServer\obj\Debug\TcpServer.csproj.GenerateResource.cache
+C:\LWD\DotNetProjects\TcpCommunication\TcpServer\obj\Debug\TcpServer.csproj.CoreCompileInputs.cache
+C:\LWD\DotNetProjects\TcpCommunication\TcpServer\obj\Debug\TcpServer.exe
+C:\LWD\DotNetProjects\TcpCommunication\TcpServer\obj\Debug\TcpServer.pdb
